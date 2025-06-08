@@ -7,8 +7,11 @@ Studies on the interplay between humans, security, and information in the Intern
 ## 文書/論文
 
 - 2025/7 [第110回コンピュータセキュリティ・第60回セキュリティ心理学とトラスト合同研究発表会](https://www.ipsj.or.jp/kenkyukai/event/csec110spt60.html)
-    - 青少年を守るデジタル保護策: 各国におけるSNS規制の予備的比較調査 / Digital Guardrails for Young Users: A Preliminary Comparative Study of SNS Regulations Across Countries
-    - [論文PDF](sns-reg-2025.pdf) [^c_ipsj]
+  - 青少年を守るデジタル保護策: 各国におけるSNS規制の予備的比較調査 / Digital Guardrails for Young Users: A Preliminary Comparative Study of SNS Regulations Across Countries
+  - [論文PDF](sns-reg-2025.pdf) [^c_ipsj]
+- 2025/1 [JANOG55 ミーティング in 京都](https://www.janog.gr.jp/meeting/janog55/)
+  - 世界のSNS事件と規制を語るBoF
+  - [資料PDF](sns-law-bof-2025.pdf)
 
 ## Contact / 連絡先
 
