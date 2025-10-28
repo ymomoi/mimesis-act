@@ -24,7 +24,7 @@ Indirect Protection Approaches
 
 ```Text
 Yasunari 'momo' Momoi
-ももいやすなり
+ももいやすなり / 桃井康成
 <momo@iij.ad.jp>
 ```
 
