@@ -6,6 +6,9 @@ Studies on the interplay between humans, security, and information in the Intern
 
 ## 文書/論文
 
+- 2026/02 [JANOG57 ミーティング in 大阪](https://www.janog.gr.jp/meeting/janog57/)
+  - 世界のネットワーク/SNS規制を考えるBoF
+  - [資料PDF](net-control-2026.pdf)
 - 2025/10 [コンピュータセキュリティシンポジウム2025](https://www.iwsec.org/css/2025/index.html)
   - 青少年を守るデジタル保護策: 直接的なSNS規制によらないアプローチの予備的比較調査 / Digital Guardrails for Young Users: A Preliminary Comparative Study of
 Indirect Protection Approaches
