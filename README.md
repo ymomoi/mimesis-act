@@ -6,6 +6,9 @@ Studies on the interplay between humans, security, and information in the Intern
 
 ## 文書/論文
 
+- 2026/07 [JANOG58 ミーティング in 松山](https://www.janog.gr.jp/meeting/janog58/)
+  - 世界のネットワーク/SNS規制を考えるBoF
+  - [資料PDF](net-control-2026-2.pdf)
 - 2026/02 [JANOG57 ミーティング in 大阪](https://www.janog.gr.jp/meeting/janog57/)
   - 世界のネットワーク/SNS規制を考えるBoF
   - [資料PDF](net-control-2026.pdf)
