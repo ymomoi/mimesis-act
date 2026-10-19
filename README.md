@@ -6,6 +6,10 @@ Studies on the interplay between humans, security, and information in the Intern
 
 ## 文書/論文
 
+- 2026/10 [コンピュータセキュリティシンポジウム2026](https://www.iwsec.org/css/2026/index.html)
+  - Addictive Featuresの類型化と規制: 青少年保護のためのオンラインプラットフォーム規制の国際比較 / Classifying and Regulating Addictive Features: A Comparative Analysis
+of International Online Platform Regulation for the Protection of Minors
+  - [論文PDF](addictive-designs-2026.pdf) [^c_ipsj]
 - 2026/07 [JANOG58 ミーティング in 松山](https://www.janog.gr.jp/meeting/janog58/)
   - 世界のネットワーク/SNS規制を考えるBoF
   - [資料PDF](net-control-2026-2.pdf)
